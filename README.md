@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Cloud Infrastructure Enthusiast | Builder**
 
-I build clean, resilient systems and love exploring the sweet spot where **full-stack software engineering meets cloud infrastructure**, writing reliable application code and deploying it on scalable, modern architectures.
+I build clean, resilient systems and love exploring the sweet spot where **back-end software engineering meets cloud infrastructure**, writing reliable application code and deploying it on scalable, modern architectures.
 
 ---
 
