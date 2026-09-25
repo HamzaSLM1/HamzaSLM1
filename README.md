@@ -7,10 +7,10 @@ I build clean, resilient systems and love exploring the sweet spot where **back-
 ---
 
 ### 💻 What I'm Up To
-- 🎓 Studying Computer Science - Ai concentration
+- 🎓 Studying Computer Science - AI concentration
 - ☁️ Designing and deploying scalable services—exploring containers, cloud patterns, and CI/CD pipelines
-- 🛠️ Currently building **MatchMyRoom** (connecting roommates seamlessly) and experimenting with **real-time voice-scoring tools**[cite: 2]
-- 🎯 Looking for Software Engineering & Cloud/DevOps roles
+- 🛠️ Currently building **MatchMyRoom** (connecting roommates seamlessly)
+- 🎯 Looking for Software Engineering & Cloud/DevOps internship opportunities
 
 ---
 
