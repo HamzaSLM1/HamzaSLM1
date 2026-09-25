@@ -7,7 +7,7 @@ I build clean, resilient systems and love exploring the sweet spot where **full-
 ---
 
 ### 💻 What I'm Up To
-- 🎓 Studying Computer Science / Software Engineering
+- 🎓 Studying Computer Science - Ai concentration
 - ☁️ Designing and deploying scalable services—exploring containers, cloud patterns, and CI/CD pipelines
 - 🛠️ Currently building **MatchMyRoom** (connecting roommates seamlessly) and experimenting with **real-time voice-scoring tools**[cite: 2]
 - 🎯 Looking for Software Engineering & Cloud/DevOps roles
@@ -27,14 +27,7 @@ I build clean, resilient systems and love exploring the sweet spot where **full-
 
 ---
 
-### ⚡ Quick Fun Facts
-- ☁️ *Philosophy:* "If you have to do it more than twice, automate it."
-- 🐛 *Debugging ritual:* Explaining the bug out loud to an inanimate object until the missing semicolon or broken subnet reveals itself.
-- ⚽ When not in an IDE or terminal, you'll usually catch me on the soccer pitch.
-
----
-
-### 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/)
-- **Email:** your.email@example.com
-- **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+ ⚡ Quick Fun Facts
+1. "If you have to do it more than twice, automate it."
+2. Debugging ritual: Explaining the bug out loud to an inanimate object until the missing semicolon or broken subnet reveals itself.
+3. ⚽ When not in an IDE or terminal, you'll usually catch me on the McGill Varsity soccer stadium!
