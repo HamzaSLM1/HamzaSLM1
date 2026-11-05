@@ -10,7 +10,7 @@ I build clean, resilient systems and love exploring the sweet spot where **back-
 - 🎓 Studying Computer Science - AI concentration @ McGill University
 - ☁️ Designing and deploying scalable services—exploring containers, cloud patterns, and CI/CD pipelines
 - 🛠️ Currently building **MatchMyRoom** (connecting roommates seamlessly)
-- 🎯 Looking for Software Engineering & Cloud/DevOps internship opportunities
+- 🎯 Looking for Software Engineering/ml/cloud internship opportunities
 
 ---
 
